@@ -4,6 +4,8 @@ Utilització de Machine Learning a través de l'Algoritme Apriori al FC Barcelon
 ## ASPECTES A TENIR EN COMPTE
 El codi s’ha realitzat en Python mitjançant la plataforma Google Colab. 
 
+S'utilitzen les llibreries *numpy*, *pandas* i *mlxtend.frequent_patterns*.
+
 Els fitxers de dades .csv s’importen localment a la mateixa plataforma.
 
 ## ESTRUCTURA
