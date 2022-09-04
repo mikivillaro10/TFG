@@ -1,18 +1,18 @@
-# RESUM
-Utilització de Machine Learning a través de l'Algoritme Apriori al FC Barcelona de bàsquet en competició d'Eurolliga per a identificar els conjunts de jugadors més eficients, les relacions entre ells, atribuir-hi una estadística i establir un model predictiu sobre la Final a 4 de la temporada 2021-2022 
+# ABSTRACT
+Usage of Machine Learning through the Apriori Algorithm on FC Barcelona's basketball team to identify the most efficient sets of players, the relationships between them, assign a new statistic and establish a predictive model on the Final 4 of the 2021-2022 Euroleague season. 
 
-## ASPECTES A TENIR EN COMPTE
-El codi s’ha realitzat en Python mitjançant la plataforma Google Colab. 
+## ASPECTS TO KEEP IN MIND
+Code has been created with Python through the programming platform Google Colab. 
 
-S'utilitzen les llibreries *numpy*, *pandas* i *mlxtend.frequent_patterns*.
+Most used libraries are *numpy*, *pandas* and *mlxtend.frequent_patterns*.
 
-Els fitxers de dades .csv s’importen localment a la mateixa plataforma.
+*.csv* data files are imported locally into the platform itself.
 
-## ESTRUCTURA
-1. Pre-processament de dades
-2. Algoritme depenent de les posicions de joc
-3. Algoritme independent de les posicions de joc
+## STRUCTURE
+1. Data wrangling & preprocessing
+2. Position-wise algorithm.
+3. Position-less algoritme
 4. Player score
-5. Interactiu
-6. Prediccions per a la Final a 4
-7. Descàrrega opcional de fitxers
+5. Interactive program
+6. Euroleague Final 4 predictions
+7. Optional file downloads
