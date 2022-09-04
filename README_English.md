@@ -8,6 +8,8 @@ Most used libraries are *numpy*, *pandas* and *mlxtend.frequent_patterns*.
 
 *.csv* data files are imported locally into the platform itself.
 
+The code file and its comments are mostly written in catalan, if there is any doubt about it you can mail me at _miquelvillaro2000@gmail.com_.
+
 ## STRUCTURE
 1. Data wrangling & preprocessing
 2. Position-wise algorithm.
